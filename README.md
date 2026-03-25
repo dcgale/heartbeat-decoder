@@ -8,9 +8,8 @@ Web app: [Heartbeat Decoder](https://ecg-heartbeat-decoder.streamlit.app/)  _(<-
 **TODO**:
 - merge and rewrite`app.py`, update streamlit version
 - big review of (`heartbd`)
-- migrate to uv
+- migrate to [uv](https://docs.astral.sh/uv/)
 - rewrite API request (nested classes for featureset)
 - review API response
 - ensure API works with test data
 - clean and annotate code for clarity
-
