@@ -6,10 +6,11 @@ Web app: [Heartbeat Decoder](https://ecg-heartbeat-decoder.streamlit.app/)  _(<-
 
 ---
 **TODO**:
-- fix venv & organise dependencies
 - merge and rewrite`app.py`, update streamlit version
-- review of `src` dir (`heartbd`)
+- big review of (`heartbd`)
+- migrate to uv
+- rewrite API request (nested classes for featureset)
+- review API response
 - ensure API works with test data
 - clean and annotate code for clarity
-- sunset
 
