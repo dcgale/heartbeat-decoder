@@ -13,4 +13,5 @@ Web app: [Heartbeat Decoder](https://ecg-heartbeat-decoder.streamlit.app/)  _(<-
 - review API response; ensure API works with test data
 - containerise and run some test deployments in cloud
 - spring cleaning: annotate code for clarity
+- AI_USAGE.md, etc.
 - archive
