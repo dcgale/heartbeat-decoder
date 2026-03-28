@@ -5,7 +5,7 @@ Web app: [Heartbeat Decoder](https://ecg-heartbeat-decoder.streamlit.app/)  _(<-
 
 ---
 **TODO**:
-- all remote code: commit rewrites & eda notebooks from 2025
+- all local code: commit rewrites & eda notebooks from 2025
 - merge and rewrite`app.py` , update streamlit version
 - big review of `heartbd`
 - migrate to [uv](https://docs.astral.sh/uv/)
