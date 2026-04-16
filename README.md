@@ -4,4 +4,4 @@ Machine learning project classifying heart arrhythmias based on input ECG data.
 Web app: [Heartbeat Decoder](https://ecg-heartbeat-decoder.streamlit.app/)  _(<--- deprecated as of 2025 due to version mismatch)_
 
 > [!note]
-> This is an archival fork of the original; I am rewriting the whole thing from scratch for the sake of my own personal review and learning. Find it [here](https://github.com/dcgale/heartbeat). 
+> As of April 2026, this is an archived project. I have updated and completely rewritten it, and you can find that [here](https://github.com/dcgale/heartbeat). 
